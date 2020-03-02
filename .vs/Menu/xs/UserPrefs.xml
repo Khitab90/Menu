@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{CD8A360D-A7F3-4AF7-B1C6-AE5519B148B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Menu/Models/MenuItem.cs">
+    <Files>
+      <File FileName="Menu/Models/MenuItem.cs" Line="3" Column="17" />
+      <File FileName="Menu/Models/MenuContext.cs" />
+      <File FileName="Menu/Startup.cs" />
+      <File FileName="Menu/Controllers/MenuItemsController.cs" Line="89" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Menu" expanded="True">
+            <Node name="Menu" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="MenuItem.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Menu PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
